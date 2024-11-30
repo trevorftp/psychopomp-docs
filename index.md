@@ -1,7 +1,6 @@
 # Psychopomp Gold Documentation
 
-!!! note
-    test note! hello world.
+!!! note test note! hello world.
 
 Welcome to the **Psychopomp Gold Modding Documentation**! This resource will guide you through the tools, techniques, and best practices for creating mods.
 
