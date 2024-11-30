@@ -1,13 +1,7 @@
 # Psychopomp Gold Documentation
 
 !!! note
-    This is a general informational note to guide users.
-
-!!! warning
-    Be cautious! Modding can lead to unexpected game behavior.
-
-!!! error
-    Something went wrong. Please check your configuration files.
+    test note! hello world.
 
 Welcome to the **Psychopomp Gold Modding Documentation**! This resource will guide you through the tools, techniques, and best practices for creating mods.
 
