@@ -1,7 +1,17 @@
 # Psychopomp Gold Documentation
 
+!!! note
+    This is an informational note. Use this to provide additional helpful details.
+!!!
+
+
 !!! warning
-    Be cautious! Modding can lead to unexpected game behavior.
+    Be careful! This is a warning note to highlight something important.
+!!!
+
+!!! error
+    Something went wrong! This is an error note to alert the user about critical issues.
+!!!
 
 Welcome to the **Psychopomp Gold Modding Documentation**! This resource will guide you through the tools, techniques, and best practices for creating mods.
 
