@@ -1,7 +1,7 @@
 # Psychopomp Gold Documentation
 
-!!! 
-    note test note! hello world.
+!!! warning
+    Be cautious! Modding can lead to unexpected game behavior.
 
 Welcome to the **Psychopomp Gold Modding Documentation**! This resource will guide you through the tools, techniques, and best practices for creating mods.
 
