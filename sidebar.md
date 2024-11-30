@@ -1,7 +1,6 @@
 # Sidebar Tree
 
 ## General
-- [Introduction](index.md)
 - [Introduction](docs/about/introduction.md)
 - [List of Features](docs/about/list_of_features.md)
 - [System Requirements](docs/about/system_requirements.md)
