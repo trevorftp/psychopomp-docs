@@ -11,6 +11,7 @@
 - [Step by Step](docs/getting_started/step_by_step.md)
 - [First Resource Mod](docs/getting_started/first_resource_mod.md)
 - [First Map Mod](docs/getting_started/first_map_mod.md)
+- [Trenchbroom Tutorials](docs/getting_started/trenchbroom_tutorials.md)
 
 ## Advanced Topics
 - [Custom Scripts](docs/advanced_topics/custom_scripts.md)
