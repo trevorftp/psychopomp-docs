@@ -15,6 +15,8 @@
 
 Welcome to the **Psychopomp Gold Modding Documentation**! This resource will guide you through the tools, techniques, and best practices for creating mods.
 
+**BEWARE THOUGH!** This webpage contains spoilers about the game. You could probably tell, but the warning is still here.
+
 ---
 
 ## Contents
