@@ -37,6 +37,9 @@ This documentation is designed to help modders of *Psychopomp Gold* create, modi
 - **Resources**: Access tools, templates, and assets.
 - **Community-Driven**: Collaborate and share with other modders.
 
+![Image Test](https://github.com/user-attachments/assets/944a41d6-3e91-4f22-85a6-bd8187507e86)
+
+
 ---
 
 ## How to Use This Documentation
