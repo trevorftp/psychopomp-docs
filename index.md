@@ -20,7 +20,6 @@ Welcome to the **Psychopomp Gold Modding Documentation**! This resource will gui
 ---
 
 ## Contents
-
 1. [Getting Started](getting_started.md)
 2. [Advanced Topics](advanced_topics.md)
 3. [FAQ](faq.md)
@@ -43,7 +42,6 @@ This documentation is designed to help modders of *Psychopomp Gold* create, modi
 ---
 
 ## How to Use This Documentation
-
 1. Navigate through the sections using the sidebar or links.
 2. Follow the step-by-step guides for specific modding tasks.
 3. Check the FAQ for common questions and troubleshooting tips.
