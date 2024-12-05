@@ -1,51 +1,76 @@
-# Uploading Mods to the Steam Workshop
+# *****Uploading to Steam Workshop*****
 
-Follow this guide to upload your mod to the Steam Workshop using the SDK's built-in GUI tool.
-
----
-
-## Prerequisites
-Before you start:
-1. **Ensure Steam is running** on your PC.
-2. Have your mod files ready for upload.
+In this SDK, there is a GUI tool for uploading packages to the Steam Workshop. Follow the steps below to upload your mod.
 
 ---
 
-## Steps to Upload Your Mod
-
-1. **Open the Workshop Uploader**  
-   Launch `SteamWorkshopUploader.exe` from the SDK folder.
-
-2. **Create a New Mod Item**  
-   - Enter a name for your mod in the uploader.
-   - Click the `Create Item` button.  
-     This action creates a new folder for your mod in the `WorkshopContent` directory.
-
-3. **Add Your Mod Files**  
-   - Locate the newly created folder in the `WorkshopContent` directory.
-   - Drop the contents of your mod into this folder.
-
-4. **Fill Out Mod Details**  
-   - In the uploader, provide the necessary details for your mod (e.g., description, tags).
-
-5. **Set a Workshop Image**  
-   - Choose an image to represent your mod on the Workshop.
-   - The image must be placed in the `WorkshopContent` folder.  
-     *(Ensure the image meets Steam's guidelines for format and size.)*
-
-6. **Submit Your Mod**  
-   - When you're ready, click the `Submit` button in the uploader.  
-     The tool will upload your mod to the Steam Workshop.
-
-7. **Make Your Mod Public**  
-   - After uploading, open the Steam client.  
-   - Navigate to your Workshop item and set its visibility to `Public`.
+### 1. Ensure Steam is Running
+Make sure that **Steam** is running on your PC before starting the uploader.
 
 ---
 
-## Success!
+### 2. Open the Workshop Uploader
+Launch the tool by running **`SteamWorkshopUploader.exe`**.
 
-Your mod is now available on the Steam Workshop! 🎉  
-Other users can subscribe, download, and enjoy your mod.
+---
 
-For further updates or modifications, simply repeat the steps above to update your Workshop item.
+### 3. Create a New Mod Item
+- Enter a **name for your mod** in the uploader.
+- Click the **"Create Item"** button.  
+  A new folder for your mod will be created in the `WorkshopContent` directory.
+
+---
+
+### 4. Add Your Mod Files
+- Navigate to the newly created folder inside the `WorkshopContent` directory.
+- Place the **contents of your mod** into the root of the folder named after your mod.
+
+---
+
+### 5. Fill Out Mod Details
+- In the uploader, complete the following fields:
+  - **Name**: The name of your mod.
+  - **Description**: Provide a brief explanation of what your mod does.
+  - **Tags**: Add tags to help categorize your mod in the Workshop.
+
+---
+
+### 6. Set a Workshop Image
+- Choose an **image** to represent your mod on the Steam Workshop.  
+- Place this image in the `WorkshopContent` folder.
+- Make sure the image follows Steam's size and format guidelines.
+
+---
+
+### 7. Adjust Visibility Settings
+- In the uploader, choose the **visibility** for your mod:
+  - `Public`: Visible to everyone.
+  - `Friends Only`: Only visible to your Steam friends.
+  - `Private`: Only visible to you.
+
+---
+
+### 8. Enter Change Notes (Optional)
+- If you're uploading a new version of your mod or making updates, enter **change notes** to let users know what's new.
+
+---
+
+### 9. Submit Your Mod
+- Click the **"Submit"** button to upload your mod to the Steam Workshop.
+- Wait for the upload to complete.
+
+---
+
+### 10. Finalize on the Steam Workshop
+- Open your Steam client and navigate to your mod’s Workshop page.
+- Double-check all details and ensure everything looks correct.
+- If needed, adjust the **visibility** or make additional edits.
+
+---
+
+### 🎉 Success!
+Your mod is now uploaded to the Steam Workshop!  
+You can update it anytime by repeating the steps above.  
+Don’t forget to share your mod with the community and have fun modding!
+
+---
