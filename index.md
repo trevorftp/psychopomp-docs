@@ -6,7 +6,7 @@
 
 
 !!! warning
-    Be careful! This is a warning note to highlight something important.
+    This webpage contains spoilers about the game. You could probably tell, but the warning is still here.
 !!!
 
 !!! error
