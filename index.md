@@ -21,8 +21,9 @@ Welcome to the **Psychopomp Gold Modding Documentation**! This resource will gui
 
 ## Contents
 1. [Getting Started](getting_started.md)
-2. [Advanced Topics](advanced_topics.md)
-3. [FAQ](faq.md)
+2. [Acquiring Game Assets](decomping_the_pomp.md)
+3. [Advanced Topics](advanced_topics.md)
+4. [FAQ](faq.md)
 
 ---
 
