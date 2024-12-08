@@ -1,5 +1,9 @@
 # Introduction
 
+<div class="diff">
+<img src="resources/icons/diff/HRD.png">
+</div>
+
 Welcome to the **Psychopomp Gold Mod SDK**! This guide is designed to help you create and share custom mods for *Psychopomp Gold*. Whether you want to design new maps, replace game resources, or add entirely new gameplay elements, this SDK has everything you need to get started.
 
 ---
