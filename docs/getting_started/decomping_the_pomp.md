@@ -1,8 +1,5 @@
 # Decomping the Pomp!
 
-<img src="https://github.com/user-attachments/assets/678d22fb-3033-4247-9dd4-d178f78e30fd)">
-
-
 Making maps and basic resource mods are fairly simple for Psychopomp in concept, but if you wish to go a bit beyond,
 like say you want to make new models, game mechanics or new resources based on existing ones, you may want to have access to the game's files to use as references or a base.
 
