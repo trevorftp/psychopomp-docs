@@ -51,3 +51,33 @@ This documentation is designed to help modders of *Psychopomp Gold* create, modi
 
 **Ready to Start?**  
 [Click here to begin with "Getting Started."](getting_started.md)
+
+TESTING ONLY.
+
+# Heading 1
+## Heading 2
+### Heading 3 
+--- (3 dashes makes horizontal line)
+**bold text**
+*italic*
+***bold and italic***
+~~strikethrough~~
+`code`
+```code block```
+[link](https://google.com)
+> blockquote
+- List
+- List 2
+- List 3
+1. Item
+2. Item
+3. Item
+!!! note
+    test note yo!
+!!!
+!!! warning
+    test warning yo!
+!!!
+!!! error
+    test error yo!
+!!!
