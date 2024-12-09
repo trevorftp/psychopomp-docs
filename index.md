@@ -81,3 +81,7 @@ TESTING ONLY.
 !!! error
     test error yo!
 !!!
+[^1] footnote
+- [ ] checkbox
+https://google.com/
+:smile:
