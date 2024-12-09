@@ -9,6 +9,6 @@ Well, luckily there is an easy way for you to get access to those files: by deco
 
 !!! warning 
     While we show here how to decompile the game, DO NOT redistribute nor use these files for projects that are not mods or are unrelated to the game.
-    You cannot use them in your own games and so on. Please, use common sense!!
+    You cannot use them in your own games and so on. Please, use common sense.
 !!!
     
