@@ -81,7 +81,12 @@ TESTING ONLY.
 !!! error
     test error yo!
 !!!
-[^1] footnote
+Here’s a statement with a footnote[^1].  
+
+[^1]: This is the footnote.
 - [ ] checkbox
 https://google.com/
 :smile:
+| Header 1 | Header 2 |
+|----------|----------|
+| Value 1  | Value 2  |
